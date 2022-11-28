@@ -8,4 +8,4 @@
 复制下方链接，在App内导入书源即可
 
 
-https://github.com/aikanshuyuedu/aiyuexiaoshuoshuyuan/blob/main/All.json
+https://raw.githubusercontent.com/aikanshuyuedu/aiyuexiaoshuoshuyuan/main/All.json
